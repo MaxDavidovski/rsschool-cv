@@ -1,14 +1,16 @@
 Maxim Davidovski
 ================
+![oops]()
 
 --------------------------        
 Minsk, Belarus  <br />
 --------------------------    
 My contacts:
 
-mail: maxdavidovskiy00@icoud.com <br />
-[Instagram](https://www.instagram.com/maxim.davidovski/)<br />
-[Вконтакте](https://vk.com/maxim.davidovski)<br />
+mail: 
+* maxdavidovskiy00@icoud.com <br />
+* [Instagram](https://www.instagram.com/maxim.davidovski/)<br />
+* [Вконтакте](https://vk.com/maxim.davidovski)<br />
 
 -------------------------------
 Since the beginning of 2021, I have been diligently studying:
