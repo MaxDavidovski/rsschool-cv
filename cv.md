@@ -1,6 +1,6 @@
 Maxim Davidovski
 ================
-![](https://github.com/MaxDavidovski/rsschool-cv/blob/gh-pages/я2.jpg) 
+![](https://github.com/MaxDavidovski/rsschool-cv/blob/gh-pages/я2.jpg =100x100) 
 
 --------------------------        
 Minsk, Belarus  <br />
