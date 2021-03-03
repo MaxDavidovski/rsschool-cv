@@ -17,4 +17,4 @@ Since the beginning of 2021, I have been diligently studying:
 * HTML
 * CSS
 * JavaScript <br />
-I have enough zeal, so I sit in front of the computer until my eyes turn red, until I accurately fix the studied material. I recently bought eye drops and continue to learn and practice new things for several hours a day.
+I have enough zeal, so I sit in front of the computer until my eyes turn red, until I accurately fix the studied material. I recently bought eye drops and continue to learn and practice new things for several hours a day...
